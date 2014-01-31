@@ -1,0 +1,87 @@
+Cmp-Mod V01 Created by CvPcb (2014-01-25 BZR 4633)-product date = Thu 30 Jan 2014 05:25:11 PM EST
+
+BeginCmp
+TimeStamp = /52E70152;
+Reference = C1;
+ValeurCmp = C;
+IdModule  = Capacitors_ThroughHole:Capacitor4x3RM2.5;
+EndCmp
+
+BeginCmp
+TimeStamp = /52E9848D;
+Reference = C3;
+ValeurCmp = C;
+IdModule  = Capacitors_SMD:c_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = /52E984A3;
+Reference = C4;
+ValeurCmp = C;
+IdModule  = Capacitors_SMD:c_1808;
+EndCmp
+
+BeginCmp
+TimeStamp = /52E70167;
+Reference = R1;
+ValeurCmp = R;
+IdModule  = Resistors_ThroughHole:Resistor_Vertical_RM5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /52E984B9;
+Reference = R3;
+ValeurCmp = R;
+IdModule  = Resistors_SMD:Resistor_SMD0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /52E984AE;
+Reference = R4;
+ValeurCmp = R;
+IdModule  = Resistors_SMD:Resistor_SMD1210_ReflowWave;
+EndCmp
+
+BeginCmp
+TimeStamp = /52E98797;
+Reference = U1;
+ValeurCmp = AO4576;
+IdModule  = SOIC_Packages:SOIC-8_N;
+EndCmp
+
+BeginCmp
+TimeStamp = /52E6E321;
+Reference = U2;
+ValeurCmp = FDMC8360L;
+IdModule  = GLSP:FDMC8360L;
+EndCmp
+
+BeginCmp
+TimeStamp = /52E70047;
+Reference = U3;
+ValeurCmp = LM324;
+IdModule  = SMD_Packages:TSSOP14;
+EndCmp
+
+BeginCmp
+TimeStamp = /52E982BA;
+Reference = U4;
+ValeurCmp = MCP6002;
+IdModule  = SMD_Packages:MSOP_8;
+EndCmp
+
+BeginCmp
+TimeStamp = /52EA2B60;
+Reference = U5;
+ValeurCmp = TB62752AFUG;
+IdModule  = GLSP:TB62752AFUG;
+EndCmp
+
+BeginCmp
+TimeStamp = /52EACA75;
+Reference = U6;
+ValeurCmp = 7805;
+IdModule  = GLSP:DPAK3;
+EndCmp
+
+EndListe

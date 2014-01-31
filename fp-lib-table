@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name Giga)(type Legacy)(uri /home/gail/ContextualElectronics/soldering/CE_Soldering_Practice/GRP_NAME_BACK.mod)(options "")(descr ""))
+  (lib (name GLSP)(type KiCad)(uri /home/gail/ContextualElectronics/soldering/CE_Soldering_Practice/GLSP.pretty)(options "")(descr ""))
+)
